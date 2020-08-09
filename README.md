@@ -1,9 +1,6 @@
 # api_exemplo
 Creation of an example api, with authentication already done
 
-# database model
-https://dbdiagram.io/d/5f2fecc008c7880b65c59975
-
 # Authentication
 
 "SimpletokenAuthentication" authentication has been implemented,
